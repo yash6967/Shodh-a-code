@@ -325,24 +325,6 @@ shodh-a-code/
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. **Open a Pull Request**
 
 ### **Development Guidelines**
 - Follow Java coding standards
@@ -383,15 +365,13 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Monaco Editor** - For the excellent code editing experience
+- **VS code Editor** - For the excellent code editing experience
 - **Spring Boot** - For the robust backend framework
 - **Next.js** - For the modern React framework
 - **Tailwind CSS** - For the utility-first CSS framework
@@ -399,21 +379,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-- **Documentation**: [Wiki](wiki-url)
-- **Issues**: [GitHub Issues](issues-url)
-- **Discussions**: [GitHub Discussions](discussions-url)
-- **Email**: support@shodhacode.com
-
 ---
 
 <div align="center">
 
 **Built with ❤️ for the coding community**
-
-[![GitHub stars](https://img.shields.io/github/stars/username/shodh-a-code?style=social)](https://github.com/username/shodh-a-code)
-[![GitHub forks](https://img.shields.io/github/forks/username/shodh-a-code?style=social)](https://github.com/username/shodh-a-code)
-[![GitHub watchers](https://img.shields.io/github/watchers/username/shodh-a-code?style=social)](https://github.com/username/shodh-a-code)
 
 </div>
